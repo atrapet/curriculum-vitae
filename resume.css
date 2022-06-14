@@ -89,6 +89,13 @@ h3, h4 {
 h1, h2, h3, h4 {
     color: #333;
 }
+
+h2 span {
+    margin-left: 0.5em;
+    opacity: 0.6;
+    font-size: 1rem;
+}
+
 p {
     font-size: 120%;
     line-height: 21px;
